@@ -10,11 +10,11 @@ export default function App() {
   let interval = 
 
   function diminuir() {
-  setNumber(number - 5)
+    setNumber(number - 5)
   }
 
   function aumentar() {
-  setNumber(number +8)
+    setNumber(number +8)
   }
   
   return <section>
